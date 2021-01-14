@@ -1,7 +1,7 @@
 {
-  "name": "node-express",
+  "name": "express-node",
   "version": "1.0.0",
-  "description": "",
+  "description": "Aprendendo node-js",
   "main": "index.js",
   "dependencies": {
     "express": "^4.17.1"
@@ -14,8 +14,8 @@
     "type": "git",
     "url": "git+https://github.com/Arthur-Luiz01/Learn_Express.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Arthur L B Araujo",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Arthur-Luiz01/Learn_Express/issues"
   },
